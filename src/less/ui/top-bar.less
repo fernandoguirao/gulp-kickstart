@@ -1,0 +1,33 @@
+nav.navbar.navbar-fixed-top {
+  background-color:transparent;
+  border-color:transparent;
+  top: 17px;
+  button {
+    margin-top:3px;
+    margin-left: 35px;
+    padding:10px 38px;
+  }
+  a {
+    font-size:19px;
+    &.navbar-brand {
+      font-size:36px;
+      font-style: italic;
+      font-weight: @medium;
+    } 
+  }
+  @media(max-width:@screen-sm-min) {
+    .navbar-header {
+      float:left;
+    }
+    .navbar-right {
+      float:right;
+      margin-right:2px;
+    }
+    li {
+      display:inline-block;
+    }
+  }
+  @media(max-width:@screen-xs-max){
+    position: absolute;
+  }
+}

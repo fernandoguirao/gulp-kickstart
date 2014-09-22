@@ -1,0 +1,1277 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"verde",
+				"verde-claro"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"transt",
+				"transparent"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"pinterest",
+				"pinterestfunction"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"ba",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/includes/foot.jade",
+			"settings":
+			{
+				"buffer_size": 681,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Push",
+				"Git: Push"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"pukk",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"tatus",
+				"Git: Status"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"diff",
+				"Git: Diff"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"sta",
+				"Git: Status"
+			],
+			[
+				"stat	",
+				"Git: Status"
+			],
+			[
+				"PUSH",
+				"Git: Push"
+			],
+			[
+				"STATUS",
+				"Git: Status"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"PULL",
+				"Git: Pull"
+			],
+			[
+				"PUS",
+				"Git: Push"
+			],
+			[
+				"STA	",
+				"Git: Status"
+			],
+			[
+				"pull ",
+				"Git: Pull"
+			],
+			[
+				"stau",
+				"Git: Status"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"static",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packaga",
+				"Package Control: Install Package"
+			],
+			[
+				"satus",
+				"Git: Status"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"django",
+				"Django: Run Server"
+			],
+			[
+				"package control",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"putll",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git sta",
+				"Git: Stash"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"gru",
+				"Grunt"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/dist/assets",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/dist/assets/js",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/src/bower_components/jquery",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/src/bower_components/jquery/dist"
+	],
+	"file_history":
+	[
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/lib/includes/foot.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/lib/includes/header.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/gulpfile.js",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/dist/index.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/src/less/app.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/lib/index.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/src/js/app.js",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/dist/assets/js/app.js",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/dist/assets/css/app.css",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/src/js/app.css",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/styles/compile/app.css",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/lib/includes/hey.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/dist/hey.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/dist/prueba.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/lib/prueba.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/styles/less/app.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/otro/node_modules/gulp-project-template/node_modules/gulp/package.json",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/includes/head.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/includes/topBar.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/pages/brands.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/ui/new-ui.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/comun/header.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/home/singleColumn.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/comun/modales/modal-noregister-login.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/pages/create-joinity.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/includes/seo.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/landing/index.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/includes/favicons.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/email_invitacion_evento.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/mailchimp/templates/mailchimp/send_test.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/joinity/settings.py",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/ui/CustomScrollbar.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/poll/votacion_no_registrado.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/poll/votacion_registrado.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/brands/header.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/landing/index_original.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/tour/mainContent.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/layout/top-bar.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/layout/layout-joinity.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/pages/tour.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/javascripts/Scrollbar.min.js",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/joinitys/models.py",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/tickets/ajax/pago.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/solicitud_amistad.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/email_invitacion_joinity.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/plantillas/head.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/acepta_solicitud.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/acepta_invitacion_joinity.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/editables/04_bienvenido.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/bienvenida.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/editables/06_cuenta_activada.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/usuario_activado.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/reset_pass.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/produccion/06_cuenta_activada.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/produccion/08_cambio_de_contrasena.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/produccion/09_votacion.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/produccion/08_cambio_de_contraseña.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/email_solicitud_alta.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/email_solicitud_participacion.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/editables/08_cambio_de_contrasena.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/editables/09_votacion.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/editables/style.css",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/produccion/02_aceptado_invitacion_a_un_plan.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/plantillas/footer.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/editables/07_solicitud_de_amistad.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/produccion/07_solicitud_de_amistad.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/editables/05_invitacion_a_joinity.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/produccion/05_invitacion_a_joinity.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/produccion/04_bienvenido.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/produccion/03_aceptado_solictud_a_un_plan.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/editables/03_aceptado_solicitud_a_plan.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/editables/02_aceptado_invitacion_a_plan.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/editables/01_invitacion_a_un_plan_en_joinity.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails/new_mails/produccion/01_invitacion_a_un_plan_en_joinity.html",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/pages/grupos.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/ui/joinity-thumb.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/comun/mainContent.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/hobbies/single-hobby-page/singleColumn.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/hobbies/all-hobbies-page/singleColumn.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/ui/filtros.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/ui/footer.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/includes/footer.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/layout/left-bar.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/javascripts/joinityScript.coffee",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/includes/foot.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/comun/ajax/notificacion.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/tickets/comprador/ajax/lista_usuarios.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/comun/ajax/comments.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/ui/comments.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/layout/left-column.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/shoppings/joinity/header.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/pages/joinity-shoppings.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/includes/ajax/ajax_resultados_joinitys.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/shoppings/joinity/edit/modalEditaJoiners.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/comun/header_old.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/comun/filtro_timeline.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/ui/timeline.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/user/contacts/leftColumn.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/pages/user.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/ui/pasos.less",
+		"/Users/fernandoguirao/Desktop/textos-escolappios.txt",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/brands/singleColumn.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/javascripts/bootstrap/plugins/temp/jquery.stacktable.js",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/fonts/proxima/proximanova-black-webfont.svg",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/pages/all-categories.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/tickets/modalImagenes.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/ui/display-table.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/includes/topBarLogin.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/includes/others/stars.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/comun/modales/modal-inserta-joinity.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/javascripts/inicializador.coffee",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/includes/header.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/ui/typography.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/mailchimp/settings.py",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/javascripts/OLV-VERSION/googleplaces.js",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/global/import-fonts.less",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/django_contact_importer/contacts/tests.py",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/user/profile/header.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static/javascripts/ajax.js",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/hobbies/joinity/edit/form/paso1.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/hobbies/joinity/edit/form/paso2.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/familyandfriends/joinity/edit/form/paso2.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/hobbies/joinity/edit/form/paso3.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/hobbies/joinity/edit/form/paso4.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/familyandfriends/joinity/edit/form/paso1.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/familyandfriends/joinity/edit/form/paso3.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/familyandfriends/joinity/edit/form/paso4.jade",
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/includes/leftBar-responsive.jade"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/otro",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/javascripts",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/emails",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/javascripts",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/javascripts",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/javascripts",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/events",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/javascripts",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/javascripts",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity/",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/comun/ajax",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"<project>",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/layouts",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/payments",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/user",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/user/profile",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates",
+			"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/static-files/stylesheets/joinity"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"3.5.6",
+			"MÁS JOINITY",
+			"Más joinity",
+			"más joinity",
+			"auth",
+			"Modal-noregister",
+			"Regístrate En Joinity",
+			"Regístrate",
+			"Regístrate para unirte",
+			"p",
+			"n-ui",
+			"organizador",
+			"solicita invitación",
+			"//",
+			"top:56px;\n      @media(",
+			"Registrate para unirte",
+			"Inicia Sesion",
+			"bottom-da",
+			"after",
+			"brands",
+			"selected",
+			"scroll",
+			"dragger_bar",
+			"if",
+			"if joinity",
+			"img",
+			"{{media",
+			"{{static",
+			"foto",
+			"get_tipo",
+			"a",
+			"\"box",
+			"joinity",
+			"box",
+			"justify",
+			"changeTo",
+			"fake-post",
+			"Has sido invitado al joinity",
+			"text-box",
+			"photoSend",
+			"icon-remove-sign",
+			"Más info",
+			"#columnas",
+			".row.f-inline",
+			"input-group",
+			"más info",
+			"xs-max",
+			"footer",
+			".footer",
+			"footer",
+			"menu-right",
+			".timeline",
+			"widget_bar",
+			"m-leftbar",
+			".brand",
+			"bottomBar",
+			"icon-circle-arrow",
+			".data-r",
+			"j-img",
+			"data-r",
+			"aceptar",
+			"data-r",
+			"filter-timeline",
+			"filtra_actualizaciones_joinity",
+			"pinterest",
+			"Ya esta unido",
+			"b.green",
+			"autogrow",
+			"i.delete",
+			"filter-timeline",
+			"txt-up",
+			"filter",
+			"regExp",
+			"/",
+			"facebook",
+			"data-r",
+			"btn-txt-up",
+			"caja_votacion",
+			"bottomBar",
+			"select-orden",
+			"filter-timeline",
+			"form-user",
+			"ponle un nombre al grupo o ",
+			".filter-timeline {",
+			"Descubre planes",
+			"crea un ",
+			"Organi",
+			"Crea un joinity",
+			"filtra_actualizaciones",
+			"timeline",
+			"Información general",
+			"#bottomBar",
+			".bottomBar",
+			"textarea",
+			"id_descripcion",
+			"p",
+			"crea un evento",
+			"crea un joinity",
+			"filter-timeline",
+			"publico",
+			"Recomienda este joinity",
+			"member",
+			"widget_info",
+			"Recomienda otro grupo",
+			"filtra_actualizaciones_joinity",
+			"verde-gradient",
+			"gradient",
+			"encuentra a tus contactos",
+			"layoutTour",
+			"scrolled",
+			"descrip",
+			"No hay ninguna descripción para",
+			"descripcion",
+			"hp_privacidad",
+			"h4",
+			"más info",
+			"Busca más usuarios",
+			"globos.png",
+			"widget_members",
+			"Ver todos",
+			"widget_input",
+			"tarea",
+			"selectable",
+			"tarea",
+			"btn-sel",
+			"mas-opciones",
+			"second",
+			"btn-seleccion"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"Público",
+			"recomendacion",
+			"",
+			"container.block",
+			"{{STATIC_URL}}",
+			"grisclaro",
+			"@verde-claro",
+			"@amarillo2",
+			".next-page.pull-right",
+			".prev-page.pull-left",
+			".wrapper.col-sm-8.col-lg-6",
+			"{{STATIC_URL}}",
+			"votantes",
+			"table-cell",
+			"para ti",
+			"gris",
+			".col-md-10.col-sm-10.m-right",
+			".col-md-11.col-sm-11.m-right",
+			".col-md-1.col-sm-1.m-left",
+			".col-md-1.col-sm-1",
+			".grisclaro",
+			"/static/landing/",
+			"/",
+			"/landing",
+			"form-control normal",
+			"@claro",
+			"learn.sexy-english.com",
+			"app.bueninvento.net",
+			"https://app.bueninvento.net",
+			"https://localhost:8888",
+			"",
+			"modal-registro",
+			"href=\"<?php echo site_url();?>/registrarse\"",
+			"modal-registro",
+			"sexy-english.com",
+			"modal-registro",
+			"(obligatorio)",
+			"localhost:8888",
+			"beta.sexy-english.com",
+			"beta.sexy-english.com/",
+			"sexy-english.de/",
+			"beta.sexy-english.com",
+			"localhost:8888"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/includes/foot.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 681,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								681,
+								681
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"output.git-commit":
+	{
+		"height": 112.0
+	},
+	"output.git-pull":
+	{
+		"height": 144.0
+	},
+	"output.git-push":
+	{
+		"height": 163.0
+	},
+	"project": "landing.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"status",
+				"*git-status*: alpha_101"
+			],
+			[
+				"foot",
+				"templates/includes/footer.jade"
+			],
+			[
+				"comunhead",
+				"templates/pages/joinities/comun/header.jade"
+			],
+			[
+				"header",
+				"templates/includes/header.jade"
+			],
+			[
+				"settings",
+				"alpha_101/joinity/settings.py"
+			],
+			[
+				"widget",
+				"templates/pages/joinities/comun/widgets/widget_informacion.jade"
+			],
+			[
+				"forms.less",
+				"alpha_101/static-files/stylesheets/joinity/ui/forms.less"
+			],
+			[
+				"timeline",
+				"joinity/ui/timeline.less"
+			],
+			[
+				"bottom",
+				"alpha_101/templates/pages/joinities/comun/bottomBar.jade"
+			],
+			[
+				"grupos.",
+				"alpha_101/static-files/stylesheets/joinity/pages/grupos.less"
+			],
+			[
+				"top",
+				"joinity/layout/top-bar.less"
+			],
+			[
+				"foot.ja",
+				"alpha_101/templates/includes/foot.jade"
+			],
+			[
+				"app.css",
+				"alpha_101/static-files/stylesheets/app.css"
+			],
+			[
+				"widget_e",
+				"templates/pages/joinities/comun/widgets/widget_evento.jade"
+			],
+			[
+				"widget_v",
+				"templates/pages/joinities/comun/widgets/widget_votacion.jade"
+			],
+			[
+				"grupos",
+				"joinity/pages/grupos.less"
+			],
+			[
+				"widget_i",
+				"templates/pages/joinities/comun/widgets/widget_input.jade"
+			],
+			[
+				"gru",
+				"joinity/pages/grupos.less"
+			],
+			[
+				"notifica",
+				"templates/pages/joinities/comun/ajax/notificacion.jade"
+			],
+			[
+				"comments",
+				"joinity/ui/comments.less"
+			],
+			[
+				"widget_",
+				"templates/pages/joinities/comun/widgets/widget_recomendar.jade"
+			],
+			[
+				"widget_vo",
+				"templates/pages/joinities/comun/widgets/widget_votacion.jade"
+			],
+			[
+				"n-ui",
+				"joinity/ui/new-ui.less"
+			],
+			[
+				"widgetinput",
+				"alpha_101/templates/pages/joinities/comun/widgets/widget_input.jade"
+			],
+			[
+				"noti",
+				"alpha_101/templates/pages/joinities/comun/ajax/notificacion.jade"
+			],
+			[
+				"widget_p",
+				"templates/pages/joinities/comun/widgets/widget_pago.jade"
+			],
+			[
+				"bot",
+				"templates/pages/joinities/comun/bottomBar.jade"
+			],
+			[
+				"widget_m",
+				"alpha_101/templates/pages/joinities/comun/widgets/widget_members.jade"
+			],
+			[
+				"widget_in",
+				"templates/pages/joinities/comun/widgets/widget_informacion.jade"
+			],
+			[
+				"widgetm",
+				"templates/pages/joinities/comun/widgets/widget_members.jade"
+			],
+			[
+				"widget_ma",
+				"templates/pages/joinities/comun/widgets/widget_mapa.jade"
+			],
+			[
+				"comm",
+				"joinity/ui/comments.less"
+			],
+			[
+				"com",
+				"templates/pages/joinities/comun/ajax/comments.jade"
+			],
+			[
+				"n-",
+				"joinity/ui/new-ui.less"
+			],
+			[
+				"thumb",
+				"alpha_101/static-files/stylesheets/bootstrap/thumbnails.less"
+			],
+			[
+				"formulario",
+				"templates/pages/joinities/comun/ajax/formulario_comentario.jade"
+			],
+			[
+				"comment",
+				"templates/pages/joinities/comun/ajax/comments.jade"
+			],
+			[
+				"foto.jade",
+				"templates/pages/joinities/comun/ajax/foto.jade"
+			],
+			[
+				"texto",
+				"templates/pages/joinities/comun/ajax/texto.jade"
+			],
+			[
+				"popup",
+				"alpha_101/templates/pages/joinities/comun/ajax/info_popup.jade"
+			],
+			[
+				"app.co",
+				"javascripts/app.coffee"
+			],
+			[
+				"widget_re",
+				"templates/pages/joinities/comun/widgets/widget_recomendar.jade"
+			],
+			[
+				"filt",
+				"joinity/ui/filtros.less"
+			],
+			[
+				"joinity",
+				"joinity/ui/joinity-thumb.less"
+			],
+			[
+				"thu",
+				"templates/pages/joinities/comun/ajax/thumbs/thumb_hobbie.jade"
+			],
+			[
+				"banners",
+				"joinity/ui/banners.less"
+			],
+			[
+				"homeheader",
+				"alpha_101/templates/pages/home/header.jade"
+			],
+			[
+				"tests",
+				"joinity/global/tests.less"
+			],
+			[
+				"filtr",
+				"joinity/ui/filtros.less"
+			],
+			[
+				"joinity-th",
+				"joinity/ui/joinity-thumb.less"
+			],
+			[
+				"buttons.less",
+				"alpha_101/static-files/stylesheets/joinity/ui/buttons.less"
+			],
+			[
+				"buttons.",
+				"alpha_101/static-files/stylesheets/bootstrap/buttons.less"
+			],
+			[
+				"left-b",
+				"alpha_101/static-files/stylesheets/joinity/layout/left-bar.less"
+			],
+			[
+				"filtros",
+				"alpha_101/static-files/stylesheets/joinity/ui/filtros.less"
+			],
+			[
+				"filters",
+				"alpha_101/joinitys/tareas/templatetags/tareas_filters_2.py"
+			],
+			[
+				"ban",
+				"alpha_101/static-files/stylesheets/joinity/ui/banners.less"
+			],
+			[
+				"pasos",
+				"joinity/ui/pasos.less"
+			],
+			[
+				"right-column",
+				"alpha_101/static-files/stylesheets/joinity/layout/right-column.less"
+			],
+			[
+				"paso4",
+				"templates/pages/joinities/familyandfriends/joinity/edit/form/paso4.jade"
+			],
+			[
+				"paso1.",
+				"alpha_101/templates/pages/joinities/comun/modales/paso1.jade"
+			],
+			[
+				"paso1",
+				"templates/pages/joinities/comun/modales/paso1.jade"
+			],
+			[
+				"vista_votacio",
+				"templates/pages/joinities/poll/ajax/vista_votacion.jade"
+			],
+			[
+				"modal",
+				"alpha_101/static-files/stylesheets/bootstrap/modals.less"
+			],
+			[
+				"form",
+				"joinity/ui/forms.less"
+			],
+			[
+				"modalless",
+				"joinity/ui/modal.less"
+			],
+			[
+				"my-joinities",
+				"templates/pages/joinities/my-joinities/index.jade"
+			],
+			[
+				"app",
+				"javascripts/app.js"
+			],
+			[
+				"global",
+				"alpha_101/static-files/stylesheets/joinity/global/global.less"
+			],
+			[
+				"pull",
+				"templates/pages/user/contacts/leftColumn.jade"
+			],
+			[
+				"main",
+				"templates/pages/brands/mainContent.jade"
+			],
+			[
+				"brands",
+				"joinity/pages/brands.less"
+			],
+			[
+				"brandsheader",
+				"templates/pages/brands/header.jade"
+			],
+			[
+				"brand",
+				"alpha_101/templates/pages/brands/singleColumn.jade"
+			],
+			[
+				"var",
+				"alpha_101/static/stylesheets/bootstrap/font-awesome/variables.less"
+			],
+			[
+				"font",
+				"alpha_101/static/stylesheets/bootstrap/font-awesome/font-awesome.less"
+			],
+			[
+				"head",
+				"templates/includes/head.jade"
+			],
+			[
+				"foot.",
+				"templates/includes/foot.jade"
+			],
+			[
+				"layout-nested",
+				"alpha_101/static-files/stylesheets/joinity/layout/layout-2-columns-nested.less"
+			],
+			[
+				"layout-2",
+				"alpha_101/static-files/stylesheets/joinity/layout/layout-2-columns.less"
+			],
+			[
+				"right-c",
+				"alpha_101/static-files/stylesheets/joinity/layout/right-column.less"
+			],
+			[
+				"nested",
+				"alpha_101/static-files/stylesheets/joinity/layout/layout-2-columns-nested.less"
+			],
+			[
+				"modalinvita",
+				"templates/pages/user/contacts/modalInvitacion.jade"
+			],
+			[
+				"modalf",
+				"templates/pages/user/contacts/modalFacebook.jade"
+			],
+			[
+				"list",
+				"alpha_101/static-files/stylesheets/joinity/ui/listas.less"
+			],
+			[
+				"es.js",
+				"javascripts/bootstrap/plugins/locales/bootstrap-datepicker.es.js"
+			],
+			[
+				"font-",
+				"alpha_101/static/stylesheets/bootstrap/font-awesome/font-awesome.less"
+			],
+			[
+				"setti",
+				"alpha_101/joinity/settings.py"
+			],
+			[
+				"modalinvi",
+				"templates/pages/user/contacts/modalInvitacion.jade"
+			],
+			[
+				"ajax",
+				"javascripts/ajax.js"
+			],
+			[
+				"thumb_",
+				"templates/pages/joinities/comun/ajax/thumbs/thumb_compra.jade"
+			],
+			[
+				"thumbna",
+				"alpha_101/static/stylesheets/bootstrap/thumbnails.less"
+			],
+			[
+				"thumbs",
+				"templates/pages/joinities/comun/ajax/thumbs/thumbs.jade"
+			],
+			[
+				"vari",
+				"stylesheets/joinity/global/variables.less"
+			],
+			[
+				"variab",
+				"stylesheets/bootstrap/variables.less"
+			],
+			[
+				"lista_joi",
+				"templates/pages/user/profile/ajax/lista_joinitys.jade"
+			],
+			[
+				"destin",
+				"templates/pages/joinities/poll/create/answers/destinos.jade"
+			],
+			[
+				"",
+				"alpha_101/static-files/stylesheets/joinity/layout/layout-joinity.less"
+			],
+			[
+				"set",
+				"alpha_101/joinity/settings.py"
+			],
+			[
+				"sett",
+				"alpha_101/joinity/settings.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,160 @@
+.transform (@var) {
+  -webkit-transform:@var;
+  -moz-transform:@var;
+  -o-transform:@var;
+  transform:@var;
+}
+
+.box-shadow (@string) {
+  -webkit-box-shadow: @string;
+  -moz-box-shadow: @string;
+  box-shadow: @string;
+}
+
+.box-shadow2 (@string,@string2) {
+  -webkit-box-shadow: @string,@string2;
+  -moz-box-shadow: @string,@string2;
+  box-shadow: @string,@string2;
+}
+
+.text-shadow (@string) {
+  -webkit-text-shadow: @string;
+  -moz-text-shadow: @string;
+  text-shadow: @string;
+}
+
+.border-radius(@radio) {
+  -webkit-border-radius: @radio!important;
+  -moz-border-radius: @radio!important;
+  border-radius: @radio!important;
+}
+
+.transition(@transicion,@tiempo,@easing:linear) {
+  -webkit-transition: @transicion @tiempo @easing;
+  -moz-transition: @transicion @tiempo @easing;
+  -o-transition: @transicion @tiempo @easing;
+  transition: @transicion @tiempo @easing;
+}
+
+.background-size(@cover:cover) {
+  -webkit-background-size: @cover;
+  -moz-background-size: @cover; 
+  -o-background-size: @cover; 
+  background-size: @cover;
+  background-position:center;
+}
+
+.img {
+  .background-size();
+}
+
+.rotate(@grados:45deg) {
+  behavior:url(-ms-transform.htc);
+  -moz-transform:rotate(@grados);
+  -webkit-transform:rotate(@grados);
+  -o-transform:rotate(@grados);
+  -ms-transform:rotate(@grados);
+}
+
+.gradient(@colorinicial,@colorfinal) {
+  background: @colorinicial; /* Old browsers */
+  background: -moz-linear-gradient(top,  @colorinicial 0%, @colorfinal 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f25566), color-stop(100%,#e34152)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  @colorinicial 0%,@colorfinal 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  @colorinicial 0%,@colorfinal 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  @colorinicial 0%,@colorfinal 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  @colorinicial 0%,@colorfinal 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@colorinicial', endColorstr='@colorfinal',GradientType=0 ); /* IE6-9 */
+}
+
+.gradient-horizontal(@colorinicial,@colorfinal) {
+  background: @colorinicial; /* Old browsers */
+  background: -moz-linear-gradient(left,  @colorinicial 0%, @colorfinal 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right top, color-stop(0%,#f25566), color-stop(100%,#e34152)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(left,  @colorinicial 0%,@colorfinal 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(left,  @colorinicial 0%,@colorfinal 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(left,  @colorinicial 0%,@colorfinal 100%); /* IE10+ */
+  background: linear-gradient(to right,  @colorinicial 0%,@colorfinal 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='@colorinicial', endColorstr='@colorfinal',GradientType=1 ); /* IE6-9 */
+}
+
+.scale(@tamanoinicio,@tamanofin,@origen) {
+  -ms-transform: scale(@tamanoinicio , @tamanofin);
+  -webkit-transform: scale(@tamanoinicio , @tamanofin);
+  -moz-transform: scale(@tamanoinicio , @tamanofin);
+  -o-transform: scale(@tamanoinicio , @tamanofin);
+  transform: scale(@tamanoinicio , @tamanofin);
+
+  -ms-transform-origin: @origen;
+  -webkit-transform-origin: @origen;
+  -moz-transform-origin: @origen;
+  -o-transform-origin: @origen;
+  transform-origin: @origen;
+}
+
+.opacity(@opacidad:0.5) {
+  @ieOpacidad : @opacidad * 100;
+    /* IE 8 */
+  -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=@ieOpacidad)';
+
+  /* IE 5-7 */
+  filter: alpha(opacity=@ieOpacidad);
+
+  /* Netscape */
+  -moz-opacity: @opacidad;
+
+  /* Safari 1.x */
+  -khtml-opacity: @opacidad;
+
+  /* Good browsers */
+  opacity: @opacidad;
+}
+
+.invisible {
+  .opacity(0);
+}
+
+.blur(@amount:3px,@amountie:3) {
+  filter: blur(@amount);
+  -webkit-filter: blur(@amount);
+  -moz-filter: blur(@amount);
+  -o-filter: blur(@amount);
+  -ms-filter: blur(@amount);
+  filter: url(../misc/blur.svg#blur);
+  filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='@amountie'); 
+  }
+
+.esquina(@sucolor,@size:16px,@top:0,@left:0) {
+  &:before {
+    background: none repeat scroll 0 0 transparent;
+    border-color: @sucolor transparent transparent transparent;
+    border-style: solid;
+    border-width: @size @size 0 0;
+    content: "";
+    display: block;
+    left: @left;
+    position: absolute;
+    top: @top;
+    width: 0;
+  }
+}
+
+.placeholder(@elcolor) {
+  &::-webkit-input-placeholder{
+    color:@elcolor;
+  }
+  &::-moz-placeholder{
+    color:@elcolor;
+  }
+  .placeholder {
+    color:@elcolor;
+  }
+}
+
+.oculto-sm {
+  @media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {
+    display:none!important;
+  }
+}
+
+

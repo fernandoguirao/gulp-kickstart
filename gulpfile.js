@@ -11,7 +11,10 @@ var gulp = require('gulp'),
     combineMediaQueries = require('gulp-combine-media-queries'),
     autoprefixer = require('gulp-autoprefixer'),
     cssmin = require('gulp-cssmin'),
-    notify = require('gulp-notify');
+    notify = require('gulp-notify'),
+    imagemin = require('gulp-imagemin'),
+    changed = require('gulp-changed'),
+    pngcrush = require('imagemin-pngcrush');
 
 
 // LESS
@@ -26,7 +29,7 @@ gulp.task('less', function() {
   .pipe(cssmin())
   .pipe(gulp.dest('./dist/assets/css/'))
   .pipe(browserSync.reload({stream:true}))
-  .pipe(notify({ message: 'Less compiled' }));
+  .pipe(notify({ message: 'less compiled' }));
 });
  
 
@@ -38,11 +41,27 @@ gulp.task('jade', function() {
       pretty: true
     }))
     .pipe(gulp.dest('./dist/'))
-    .pipe(notify({ message: 'Jade compiled' }));
+    .pipe(notify({ message: 'jade compiled' }));
 });
 
+// IMAGES
 
-// SERVIDOR
+// minify new images
+gulp.task('imagemin', function() {
+  var imgSrc = './src/images/**/*',
+      imgDst = './dist/assets/images';
+ 
+  gulp.src(imgSrc)
+    .pipe(changed(imgDst))
+    .pipe(imagemin({
+          progressive: true,
+          svgoPlugins: [{removeViewBox: false}],
+          use: [pngcrush()]
+      }))
+    .pipe(gulp.dest(imgDst));
+});
+
+// SERVER
 
 // Watch files for changes
 gulp.task('watch', ['browser-sync'], function() {
@@ -71,4 +90,4 @@ gulp.task('browser-sync', function() {
 
 // DEFAULTS
 
-gulp.task('default', ['less','jade','watch','browser-sync']);
+gulp.task('default', ['less','jade','imagemin','watch','browser-sync']);

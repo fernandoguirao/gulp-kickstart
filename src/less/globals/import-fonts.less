@@ -1,0 +1,39 @@
+.font-face(@fontName,@fontSlug,@fontStyle,@fontWeight) {
+  font-family: @fontName;
+  @urls: %("../fonts/%s.otf", @fontSlug);
+  src: url(@urls);
+  font-style: @fontStyle;
+  font-weight: @fontWeight;
+}
+
+@font-face { 
+  .font-face ('Brandon', 'Brandon_reg', normal, normal); 
+}
+
+@font-face {
+  .font-face ('Brandon', 'Brandon_reg_it', italic, normal);
+}
+
+@font-face { 
+  .font-face ('Brandon', 'Brandon_med', normal, 600); 
+}
+
+@font-face {
+  .font-face ('Brandon', 'Brandon_med_it', italic, 600);
+}
+
+@font-face {
+  .font-face ('Brandon', 'Brandon_bld', normal, bold);
+}
+
+@font-face {
+  .font-face ('Brandon', 'Brandon_bld_it', italic, bold);
+}
+
+@font-face {
+  .font-face ('Brandon', 'Brandon_blk', normal, 800);
+}
+
+@font-face {
+  .font-face ('Brandon', 'Brandon_blk_it', italic, 800);
+}
