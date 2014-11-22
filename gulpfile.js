@@ -84,6 +84,10 @@ gulp.task('browser-sync', function() {
     browserSync.init(['./dist/assets/css/**.*', './dist/assets/js/**.*'], {
         server: {
             baseDir: './dist/'
+        },
+        proxy: {
+          host: "localhost",
+          port: 8888
         }
     });
 });

@@ -75,14 +75,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "lib/includes/foot.jade",
-			"settings":
-			{
-				"buffer_size": 681,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -274,16 +266,9 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster",
-		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/dist/assets",
-		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/dist/assets/js",
-		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/src/bower_components/jquery",
-		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/src/bower_components/jquery/dist"
-	],
 	"file_history":
 	[
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Gulp Kickstart/gulp-kickstart/lib/includes/foot.jade",
 		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/lib/includes/foot.jade",
 		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/lib/includes/header.jade",
 		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Lovster/Development/landing.lovster/gulpfile.js",
@@ -410,8 +395,7 @@
 		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/hobbies/joinity/edit/form/paso4.jade",
 		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/familyandfriends/joinity/edit/form/paso1.jade",
 		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/familyandfriends/joinity/edit/form/paso3.jade",
-		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/familyandfriends/joinity/edit/form/paso4.jade",
-		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/includes/leftBar-responsive.jade"
+		"/Users/fernandoguirao/Dropbox/Bueninvento/Proyectos/01 Activos/Joinity/Taller/Development/alpha_101/templates/pages/joinities/familyandfriends/joinity/edit/form/paso4.jade"
 	],
 	"find":
 	{
@@ -746,37 +730,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "lib/includes/foot.jade",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 681,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								681,
-								681
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
