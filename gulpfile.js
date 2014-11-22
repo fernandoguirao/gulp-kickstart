@@ -5,7 +5,8 @@
 
 var gulp = require('gulp'),
     less = require('gulp-less'),
-    jade = require('gulp-jade'),
+    // jade = require('gulp-jade'),
+    jade = require('gulp-jade-php'),
     browserSync = require('browser-sync'),
     reload = browserSync.reload,
     combineMediaQueries = require('gulp-combine-media-queries'),
@@ -35,10 +36,13 @@ gulp.task('less', function() {
 
 // JADE
 
-gulp.task('jade', function() {
+gulp.task('templates', function() {
   return gulp.src('./lib/*.jade')
     .pipe(jade({
-      pretty: true
+      pretty: true,
+      locals: {
+        title: 'OMG THIS IS THE TITLE'
+      }
     }))
     .pipe(gulp.dest('./dist/'))
     .pipe(notify({ message: 'jade compiled' }));
@@ -66,7 +70,7 @@ gulp.task('imagemin', function() {
 // Watch files for changes
 gulp.task('watch', ['browser-sync'], function() {
   // Watch JADE files
-  gulp.watch('./lib/**/*.jade', ['jade']);
+  gulp.watch('./lib/**/*.jade', ['templates']);
   // Watch Sass files
   gulp.watch('./src/less/**/*', ['less']);
   // Watch JS files
@@ -77,21 +81,23 @@ gulp.task('watch', ['browser-sync'], function() {
   // // Watch SVG files
   // gulp.watch('src/images/vector/*', ['svgs']);
   // Watch HTML
-  gulp.watch('./dist/*.html', reload);
+  // gulp.watch('./dist/*.html', reload);
+  gulp.watch('./dist/*.php', reload);
 });
 
 gulp.task('browser-sync', function() {
     browserSync.init(['./dist/assets/css/**.*', './dist/assets/js/**.*'], {
-        server: {
-            baseDir: './dist/'
-        },
+        // SI NO HAY SERVIDOR EXTERNO:
+        // server: {
+        //     baseDir: './dist/'
+        // },
         proxy: {
           host: "localhost",
-          port: 8888
+          port:8888
         }
     });
 });
 
 // DEFAULTS
 
-gulp.task('default', ['less','jade','imagemin','watch','browser-sync']);
+gulp.task('default', ['less','templates','imagemin','watch','browser-sync']);
