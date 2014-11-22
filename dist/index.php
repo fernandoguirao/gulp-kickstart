@@ -8,8 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="assets/css/app.css">
   </head>
-  <body>
-    <p>hhhh23</p><!--[if lt IE 8]>
+  <body><!--[if lt IE 8]>
     <p class="browsehappy">
       You are using an <strong>outdated</strong> browser.
       Please <a href="http://browsehappy.com/">upgrade your browser</a>
@@ -24,7 +23,7 @@
     <script>
       //<![CDATA[
       document.write("<script async src='//HOST:3001/browser-sync-client.1.3.7.js'><\/script>".replace(/HOST/g, location.hostname));
-      //]]></script>
+      //]]>
     </script>
   </body>
 </html>
