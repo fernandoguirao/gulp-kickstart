@@ -28,7 +28,7 @@ gulp.task('less', function() {
   .pipe(combineMediaQueries())
   .pipe(autoprefixer())
   .pipe(cssmin())
-  .pipe(gulp.dest('./dist/assets/css/'))
+  .pipe(gulp.dest('../lovster/assets/css/'))
   .pipe(browserSync.reload({stream:true}))
   .pipe(notify({ message: 'less compiled' }));
 });
@@ -44,7 +44,7 @@ gulp.task('templates', function() {
         title: 'OMG THIS IS THE TITLE'
       }
     }))
-    .pipe(gulp.dest('./dist/'))
+    .pipe(gulp.dest('../lovster/'))
     .pipe(notify({ message: 'jade compiled' }));
 });
 
@@ -53,7 +53,7 @@ gulp.task('templates', function() {
 // minify new images
 gulp.task('imagemin', function() {
   var imgSrc = './src/images/**/*',
-      imgDst = './dist/assets/images';
+      imgDst = '../lovster/assets/images';
  
   gulp.src(imgSrc)
     .pipe(changed(imgDst))
@@ -82,11 +82,11 @@ gulp.task('watch', ['browser-sync'], function() {
   // gulp.watch('src/images/vector/*', ['svgs']);
   // Watch HTML
   // gulp.watch('./dist/*.html', reload);
-  gulp.watch('./dist/*.php', reload);
+  gulp.watch('../lovster/*.php', reload);
 });
 
 gulp.task('browser-sync', function() {
-    browserSync.init(['./dist/assets/css/**.*', './dist/assets/js/**.*'], {
+    browserSync.init(['../lovster/assets/css/**.*', '../lovster/assets/js/**.*'], {
         // SI NO HAY SERVIDOR EXTERNO:
         // server: {
         //     baseDir: './dist/'
